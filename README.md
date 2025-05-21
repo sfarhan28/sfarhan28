@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Syed Farhan 👋
 
 **Junior Data Analyst | MSc in Data Analytics | Python | SQL | Power BI**
